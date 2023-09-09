@@ -1,0 +1,33 @@
+/* the titles should be Shrinkhand. The rest of the text should be Montserrat */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&family=Shrikhand&display=swap');
+
+
+body {
+    background-color: #fff;
+    font-family: Montserrat;
+    font-size: 120%;
+
+}
+
+h1 {
+    font-family: Shrikhand;
+    font-size: 200%;
+    color: black;
+}
+
+h2 {
+    font-weight: 500;
+    color: #000;
+}
+
+h3 {
+    color: #f48686
+}
+
+h4 {
+    font-family: Shrikhand;
+    font-size: 200%;
+    color: #f48686;
+}
+
+/* links be color #ffe0e0 once clicked */
